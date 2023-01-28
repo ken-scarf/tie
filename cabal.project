@@ -3,3 +3,6 @@ packages: .
 index-state: 2022-11-04T00:00:00Z
 
 with-compiler: ghc-9.4.4
+
+allow-newer:
+    relude:base
